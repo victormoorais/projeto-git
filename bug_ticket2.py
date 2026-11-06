@@ -1,1 +1,1 @@
-print("esse código resolve o bug2")
+print("minha solução resolve o ticket 2")
