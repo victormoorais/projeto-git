@@ -1,0 +1,4 @@
+SELECT * FROM tabela1
+JOIN tabela2
+ORDER BY 1
+
