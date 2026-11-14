@@ -1,1 +1,0 @@
-print("teste de commit e push na main do repositorio online")

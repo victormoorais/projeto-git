@@ -1,1 +1,0 @@
-print("Segundo teste de bloqueio de main no repositório")
